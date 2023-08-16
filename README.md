@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whitegunrose
-- 👀 I’m interested in game developement and cybersecurity
-- 🌱 I’m currently learning python, c#, and java
+- 👀 I’m interested in game developement and software engineering
+- 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
