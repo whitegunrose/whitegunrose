@@ -11,7 +11,7 @@ I'm Brandon from California, and I'm a prospective software engineer. I've got a
 <div align=center id=stats>
 <h2>Statistics</h2>
 
-[![whitegunrose's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=whitegunrose&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)  [![whitegunrose's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitegunrose&theme=dark)](https://github.com/whitegunrose/github-readme-stats)  
+[![whitegunrose's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=whitegunrose&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats) <br> <br>  [![whitegunrose's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitegunrose&theme=dark)](https://github.com/whitegunrose/github-readme-stats)  
 
 </div>
 <!-- -
