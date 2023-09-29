@@ -6,7 +6,7 @@ I'm Brandon from California, and I'm a prospective software engineer. I've got a
 - 👨🏻‍🎓 New to GitHub and LeetCode
 - 💻 Past experince with Java, JavaScript, Python, and C++
 - 🔎 Looking for beginner-friendly open-source projects
-- 🎓 Student as UC Santa Barbara
+- 🎓 Student at UC Santa Barbara
 
 -----
 <div align=center id=stats>
