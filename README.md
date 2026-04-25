@@ -1,17 +1,12 @@
 # Brandon Mercado
 
-I'm Brandon from California, and I'm a prospective software engineer. I've got a big interest for software engineering and game development 
-
-
-- 👨🏻‍🎓 New to GitHub and LeetCode
-- 💻 Past experince with Java, JavaScript, Python, and C++
-- 🔎 Looking for beginner-friendly open-source projects
+Student Software Engineer from California. Passionate about Game Development, Operating Systems Development and Programming Languages.
 
 -----
 <div align=center id=stats>
-<h2>Statistics</h2>
+<!-- <h2>Statistics</h2> -->
 
-[![whitegunrose's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=whitegunrose&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats) <br> <br>  [![whitegunrose's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitegunrose&theme=dark)](https://github.com/whitegunrose/github-readme-stats)  
+<!-- [![whitegunrose's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=whitegunrose&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats) <br> <br>  [![whitegunrose's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitegunrose&theme=dark)](https://github.com/whitegunrose/github-readme-stats) -->
 
 </div>
 <!-- -
